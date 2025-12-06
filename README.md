@@ -62,7 +62,7 @@ Credits go to the developers and maintainers of the [above-mentioned tools and p
 
 ## Citation
 
-* [Keller et al. .... citation einfügen]
+* To be added soon
 * Please also cite the respective [tool](Dependencies) or [dataset](Acknowledgements) appropriately, in accordance with the respective owners' citation guidelines.
 
 ## License
