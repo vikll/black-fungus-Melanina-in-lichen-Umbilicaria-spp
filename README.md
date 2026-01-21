@@ -55,14 +55,14 @@ All underlying data has been retrieved from or deposited at [NCBI](https://www.n
 ## Acknowledgements
 
 Credits go to the developers and maintainers of the [above-mentioned tools and packages](Dependencies), and for the additional data(sets) used in this analysis to:
-* [Dal Grande, F.](https://doi.org/10.1186/s12862-017-0929-8), Sharma, R., Meiser, A., Rolshausen, G., Büdel, B., Mishra, B., Thines, M., Otte, J., Pfenninger, M., & Schmitt, I. (2017). Adaptive differentiation coincides with local bioclimatic conditions along an elevational cline in populations of a lichen-forming fungus. BMC Evol Biol, 17, 93.
+* [Dal Grande, F.](https://doi.org/10.1186/s12862-017-0929-8), Sharma, R., Meiser, A., Rolshausen, G., Büdel, B., Mishra, B., Thines, M., Otte, J., Pfenninger, M., & Schmitt, I. (2017). Adaptive differentiation coincides with local bioclimatic conditions along an elevational cline in populations of a lichen-forming fungus. BMC Evolutionary Biology, 17, 93.
 * [Dal Grande, F.](https://doi.org/10.3390/biology11010024), Jamilloux, V., Choisne, N., Calchera, A., Rolshausen, G., Petersen, M., Schulz, M., Nilsson, M. A., & Schmitt, I. (2022). Transposable Elements in the Genome of the Lichen-Forming Fungus Umbilicaria pustulata and Their Distribution in Different Climate Zones along Elevation. Biology, 11(1), 24.
-* [Valim, H. F.](https://doi.org/10.1111/mec.17252), Grande, F. D., Wong, E. L., & Schmitt, I. (2024). Circadian clock-and temperature-associated genes contribute to overall genomic differentiation along elevation in lichenized fungi. Mol Ecol, 33(4), e17252.
-* [Keller, V.](https://doi.org/10.1002/iub.2934), Calchera, A., Otte, J., & Schmitt, I. (2025). Genomic features of lichen-associated black fungi. IUBMB life, 77(1), e2934.
+* [Valim, H. F.](https://doi.org/10.1111/mec.17252), Dal Grande, F., Wong, E. L., & Schmitt, I. (2024). Circadian clock-and temperature-associated genes contribute to overall genomic differentiation along elevation in lichenized fungi. Molecular Ecology, 33(4), e17252.
+* [Keller, V.](https://doi.org/10.1002/iub.2934), Calchera, A., Otte, J., & Schmitt, I. (2025). Genomic features of lichen-associated black fungi. IUBMB Life, 77(1), e2934.
 
 ## Citation
 
-* To be added soon
+* [Keller, V.](https://doi.org/10.1016/j.cub.2025.12.046), Calchera, A., Otte, J., Tuovinen Nogerius, V., & Schmitt, I. (2026). Ubiquitous occurrence of the black fungus *Melanina gundecimermaniae* in the lichen *Umbilicaria pustulata*. Current Biology, 36, 1-12.
 * Please also cite the respective [tool](Dependencies) or [dataset](Acknowledgements) appropriately, in accordance with the respective owners' citation guidelines.
 
 ## License
