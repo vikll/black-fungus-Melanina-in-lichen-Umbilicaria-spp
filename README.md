@@ -62,7 +62,7 @@ Credits go to the developers and maintainers of the [above-mentioned tools and p
 
 ## Citation
 
-* [Keller, V.](https://doi.org/10.1016/j.cub.2025.12.046), Calchera, A., Otte, J., Tuovinen Nogerius, V., & Schmitt, I. (2026). Ubiquitous occurrence of the black fungus *Melanina gundecimermaniae* in the lichen *Umbilicaria pustulata*. Current Biology, 36, 1-12.
+* [Keller, V.](https://doi.org/10.1016/j.cub.2025.12.046), Calchera, A., Otte, J., Tuovinen Nogerius, V., & Schmitt, I. (2026). Ubiquitous occurrence of the black fungus *Melanina gundecimermaniae* in the lichen *Umbilicaria pustulata*. Current Biology, 36, 748-759.e5.
 * Please also cite the respective [tool](Dependencies) or [dataset](Acknowledgements) appropriately, in accordance with the respective owners' citation guidelines.
 
 ## License
